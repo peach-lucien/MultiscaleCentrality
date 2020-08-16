@@ -5,7 +5,7 @@ Multiscale centrality is a scale dependent measure of centrality on complex netw
 The code in this repository implements the algorithm and contains a small pipeline to run classic examples. 
 
 More information on the theory can be found in the accompanying paper:
- - 'Graph centrality is a question of scale', by A. Arnaudon, R. Peach and M. Barahona, Submitted. 
+ https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033104
  
 ## Installation
 
